@@ -5,7 +5,7 @@ using namespace std;
 main()
 {
 	int a=0,b=0,c=0,arr[a];
-	cout<<"\n\tWelcome to array traversal program using for loop\n\t How many elements do you want to insert------";
+	cout<<"\n\tWelcome to array traversal program using While loop\n\t How many elements do you want to insert------";
 	cin>>a;
 	if (a<=0)
 	{
